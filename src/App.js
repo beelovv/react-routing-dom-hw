@@ -1,5 +1,4 @@
 import CreateBook from "./components/CreateBook";
-import Book from "./components/Book";
 import BookList from "./components/BookList";
 import Main from "./components/Main";
 import AboutPage from "./components/AboutPage";

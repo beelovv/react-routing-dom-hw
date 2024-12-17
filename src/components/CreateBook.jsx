@@ -6,8 +6,8 @@ export default function CreateBook (){
         <label for="bookName"> Название книги </label>
         <input id="bookName" className="border-2 border-slate-800 text-center" type="text" name="Book Name" />
         
-        <label for="autor"> Автор </label>
-        <input id="autor" className="border-2 border-slate-800 text-center" type="text" name="Author" />
+        <label for="author"> Автор </label>
+        <input id="author" className="border-2 border-slate-800 text-center" type="text" name="Author" />
         
         <label> 
         <fieldset className="border-2 border-slate-800">
