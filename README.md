@@ -1,3 +1,9 @@
+# Для запуска необходимо ввести в терминале: 
+npm run server (это запустит сервер с базой данных на 3001 порту (json файликом..)); 
+npm start (это откроет уже сам сайт на 3000 порту).
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
